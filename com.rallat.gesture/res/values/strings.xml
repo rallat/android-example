@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">com.rallat.gesture</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_gesture_demo">GestureDemo</string>
+
+</resources>
